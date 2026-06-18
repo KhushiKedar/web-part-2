@@ -1,4 +1,4 @@
 # web-part-2
-Author - khushi
+Author - khushi kedar 
 <br>
 this is my first resp
